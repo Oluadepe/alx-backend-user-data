@@ -1,0 +1,1 @@
+This repository is about "User authentication service" with the learning objective on how to declare API routes in a Flask app, get and set cookies, retrieve request form data and return various HTTP status codes. This is part of the learning modules towards "SHORT BACKEND SPECIALIZATION COURSE" toward FULL STACK SOFTWARE ENGINEERING Training by ALX
