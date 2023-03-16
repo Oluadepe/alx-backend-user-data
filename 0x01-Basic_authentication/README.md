@@ -1,0 +1,1 @@
+This repository is about "Basic authentication", the objective is to learn What authentication means, What Base64 is, How to encode a string in Base64, What Basic authentication means, How to send the Authorization header. This is part of the interview preparation modules for "SHORT BACKEND SPECIALIZATION COURSE" toward "FULL STACK SOFTWARE ENGINEERING" Training by ALX
